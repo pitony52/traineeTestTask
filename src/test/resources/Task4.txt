@@ -1,1 +1,2 @@
 XPath --> //button
+CSS-селектор --> form button,button_submit
